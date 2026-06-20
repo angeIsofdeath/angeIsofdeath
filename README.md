@@ -43,7 +43,7 @@
 
            
 <p align="center">
-   ${\textsf{\color{#f2c00c}exor or med ✦ he / any}}$<br>
+   ${\textsf{\color{#f2c00c}exor or cho ✦ he / any}}$<br>
     ${\textsf{\color{#f2c00c}whisper to int ✦ c+h in a dnt world .}}$ <br>
          ${\textsf{\color{#f2c00c}best viewed on pc !}}$ <br>
 
