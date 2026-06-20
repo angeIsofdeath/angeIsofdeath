@@ -32,9 +32,9 @@
   <br>  <br>  <br>  <br>
 
  <p align="center">     
- ${\textsf{\color{#c91e12}@aesvic's alt, i spam follow !}}$ <br>
-   ${\textsf{\color{#c91e12}if this bothers you, feel free to block .}}$ <br>
-   ${\textsf{\color{#c91e12}i don't check profiles, don't dt me .}}$ <br></p>
+ ${\textsf{\color{#f2960c}@aesvic's alt, i spam follow !}}$ <br>
+   ${\textsf{\color{#f2960c}if this bothers you, feel free to block .}}$ <br>
+   ${\textsf{\color{#f2960c}i don't check profiles, don't dt me .}}$ <br></p>
  <br>
 
 
@@ -43,9 +43,9 @@
 
            
 <p align="center">
-   ${\textsf{\color{#c91e12}exor or med ✦ he / any}}$<br>
-    ${\textsf{\color{#c91e12}whisper to int ✦ c+h in a dnt world .}}$ <br>
-         ${\textsf{\color{#c91e12}best viewed on pc !}}$ <br>
+   ${\textsf{\color{#f2c00c}exor or med ✦ he / any}}$<br>
+    ${\textsf{\color{#f2c00c}whisper to int ✦ c+h in a dnt world .}}$ <br>
+         ${\textsf{\color{#f2c00c}best viewed on pc !}}$ <br>
 
  <br>
 
@@ -54,8 +54,8 @@
  <br>
  
 <p align="center">
-   ${\textsf{\color{#c91e12}sign my ata ✦ feel free to interact !}}$<br>
-    ${\textsf{\color{#c91e12}w2i at all times + c+h always enc !}}$ <br>
+   ${\textsf{\color{#f2d30c}sign my ata ✦ feel free to interact !}}$<br>
+    ${\textsf{\color{#f2d30c}w2i at all times + c+h always enc !}}$ <br>
  <br><br>
 
 
