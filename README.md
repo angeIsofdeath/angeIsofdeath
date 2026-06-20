@@ -6,7 +6,7 @@
 ⠀⠀⠲⣿⡴⣶⢬⣷⡄⠀⠀
 ⢀⣄⣀⣰⣿⣽⣿⣴⣶⣶⠀
 ⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧    medkit
-⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⡟       from phighting  I KNOW WHO YOU ARE FORKING MY REPOSITORY!!!!!! I HOPE YOU FIND WHAT YOU NEED!
+⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⡟       from phighting
 ⠀⠀⣾⣿⣿⣿⣿⣿⡷⣿⣿
 ⠀⠀⣿⣿⣿⣿⣿⣿⡗⣿⣿
 ⠀⠸⠿⣿⡿⠙⠿⠿⠃⠉⠉
@@ -38,7 +38,7 @@
  <br>
 
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=aesvic&color=e81c0e&plastic&label=⠀LIMBO+;⠀"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=aesvic&color=de5d0d&plastic&label=++✦++SINNERS++++"></img></p>
  <br> 
 
            
@@ -50,7 +50,7 @@
  <br>
 
 <p align="center"> 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=PlRATEKIT&color=e81c0e&plastic&label=⠀LUST+;⠀"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=PlRATEKIT&color=de5d0d&plastic&label=++✦++SAINTS++++"></img></p>
  <br>
  
 <p align="center">
