@@ -23,7 +23,7 @@
 
 <div align="center">
    
- <img src="https://i.postimg.cc/90Kht0wP/IMG-1566.png" width="950" height="auto" title="graphic is not mine!"></a>
+ <img src="https://i.postimg.cc/90Kht0wP/IMG-1566.png" width="950" height="200" title="graphic is not mine!"></a>
 
   
 <img src="https://i.postimg.cc/XvqQ0RB5/IMG-1450.png" align="right" width="40%" alt="hey guys" title="i drew this ! >_<"></a>
@@ -61,7 +61,7 @@
 
 <a href="https://medkit.atabook.org"> atabook</a> <a href="https://aesvic.straw.page">strawpage</a> <a href="https://rentry.co/victor-grantz">link directory</a> <a href="https://guns.lol/exorspace">guns.lol</a>
 
- <img src="https://i.postimg.cc/1X2QcXVv/IMG-1567.png" width="950" height="auto" title="graphic is not mine!" ></a>
+ <img src="https://i.postimg.cc/1X2QcXVv/IMG-1567.png" width="950" height="200" title="graphic is not mine!" ></a>
 
 
 </h5>
