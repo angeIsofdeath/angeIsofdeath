@@ -59,9 +59,9 @@
  <br><br>
 
 
-<a href="https://rentry.co/thedarkIord"> <img src= "https://i.postimg.cc/BZrDngXK/IMG-1575.png"> </a>
-<a href="https://medkit.atabook.org"> <img src="https://i.postimg.cc/sD5WQhh1/IMG-1576.png"> </a>
-<a href="https://rentry.co/victor-grantz"> <img src= "https://i.postimg.cc/zDsWGjVC/IMG-1577.png"> </a>
+<a href="https://rentry.co/thedarkIord"> <img src= "https://i.postimg.cc/BZrDngXK/IMG-1575.png" style="width: 7%; height: auto;"> </a>
+<a href="https://medkit.atabook.org"> <img src="https://i.postimg.cc/sD5WQhh1/IMG-1576.png" style="width: 7%; height: auto;"> </a>
+<a href="https://rentry.co/victor-grantz"> <img src= "https://i.postimg.cc/zDsWGjVC/IMG-1577.png" style="width: 7%; height: auto;"> </a>
 
  <img src="https://i.postimg.cc/1X2QcXVv/IMG-1567.png" width="950" height="200" title="graphic is not mine!" ></a>
 
